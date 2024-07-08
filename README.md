@@ -1,4 +1,4 @@
 # Project1
 This is my first git project
 <br>
-Author-Megha R
+Author-Megha R Deekshith
